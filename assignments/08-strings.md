@@ -4,13 +4,13 @@
 
 ## Easy
 
-- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
-- [Shuffle String](https://leetcode.com/problems/shuffle-string/)
+- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/) - done
+- [Shuffle String](https://leetcode.com/problems/shuffle-string/) - done
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
-- [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
-- [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
-- [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
-- [To Lower Case](https://leetcode.com/problems/to-lower-case/)
+- [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/) - done
+- [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) - done
+- [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) - done
+- [To Lower Case](https://leetcode.com/problems/to-lower-case/) - done
 - [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
