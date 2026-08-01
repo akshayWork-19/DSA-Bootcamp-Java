@@ -17,7 +17,7 @@
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) - done
 13. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - done
 14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) - done
-15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) 
+15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) - done
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) - done
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
@@ -28,9 +28,9 @@
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-26. [Plus One](https://leetcode.com/problems/plus-one/)
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+26. [Plus One](https://leetcode.com/problems/plus-one/) - done
+27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - done
+28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) - done
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
