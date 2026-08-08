@@ -38,10 +38,10 @@
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - done
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - done
 7. [Jump Game](https://leetcode.com/problems/jump-game/)
-8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
-9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+8. [Rotate Array](https://leetcode.com/problems/rotate-array/) - done
+9. [Sort Colors](https://leetcode.com/problems/sort-colors/) - done
 10. [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
