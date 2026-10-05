@@ -35,7 +35,7 @@
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - done
 2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) - done
-3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) - done
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - done
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - done
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - done
